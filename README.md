@@ -1,5 +1,5 @@
 # MaxTalks
-Max's Public Content
+Max's Blog Posts, Public Tech Talks, and More
 
 # Blog Posts
 - Easy Web Filtering with pfSense - https://www.spikefishsolutions.com/post/easy-web-filtering-with-pfsense
@@ -12,3 +12,6 @@ Max's Public Content
   - Geared towards Small Businesses
   - Presentation written and produced by me
   - Video Intro/Outro/Effects created and edited by me
+
+# Memes
+- Coming Soon
