@@ -7,9 +7,9 @@ Max's Blog Posts, Public Tech Talks, and More
 - Remote Access with ZeroTier - https://www.spikefishsolutions.com/post/setting-up-remote-access-during-a-crisis
 
 # Videos
-- Talk given at the Miami Beach Chamber of Commerce Technology Council Meetings - https://youtu.be/yPemPIFn-s0
+- Talk given at the Miami Beach Chamber of Commerce Technology Council Meeting - https://youtu.be/yPemPIFn-s0
   - Discussed protecting Online Accounts (Email, Social) using 2FA and Hardware Security Keys
-  - Geared towards Small Businesses
+  - Geared towards Small Businesses, simple security tips
   - Presentation written and produced by me
   - Video Intro/Outro/Effects created and edited by me
 
